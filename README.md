@@ -115,3 +115,14 @@ Biobert is used to perform smart searches on all pdf.
 
 
 Run `pip install -r requirements-biobert.txt` and set `BIOBERT_ENABLED=1` in the .env file. Then start dev or prod server. Biobert API will be available at `http://localhost:8889`.
+
+## 👩‍💻 Project Contributors
+
+### Frontend
+- El Khedim Ilyes
+- Charlotte Ruiz
+
+### Backend
+- El Ouarrad Mariam
+- Marc Faussurier
+- Atamna Miryam
